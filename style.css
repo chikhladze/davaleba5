@@ -1,7 +1,31 @@
 body {padding:25px 30px}
-.log-o img {width:111px;vertical-align: middle;}
-.log-o {display: inline-block;}
+.log-o img {width:111px;vertical-align: middle; }
+.log-o {display: inline-block; margin-bottom: 90px}
 .nav-li {display:inline-block; vertical-align:middle;}
 .nav-li li {display: inline-block;margin-left:30px;font-family: 
 	"BPG Nino Mtavruli Bold", sans-serif;}
-.blue-box {margin-top:24px; background-color:#3D58A6 ;background-size:60px 60px; color: white }		
+.blue-box{ background-color:#3D58A6; color: white; font-size:50px;}
+.nav-active	 {color:#EE4036}
+.hh	{color:#3D58A6;font-size:20px}
+.tavi {margin-top: 30px; display:inline-block;}
+.hhh {font-size:22px; margin-top:30px;text-decoration: none}
+.wrapper {display: inline-block; width: 800px; vertical-align:top;font-size:18px;
+	margin-top:26px;}
+.mother {margin-top: 20px;margin-bottom:60px}
+.blue-box2{background-color:#3D58A6; color: white; font-size:50px;}
+.h22{}
+.comp {margin-top:30px;display:inline-block;}
+.pp {display:inline-block; width: 800px; vertical-align:top;font-size:18px;
+	margin-top:26px;margin-bottom:60px;}
+.foot {width:14px;height:30px;border-right:2px solid #3D58A6;padding-right:30px;margin-top:40px}
+.foot2{height: 30px;padding-left: 30px;margin-top:40px}
+.hhhh{font-size:24px;margin-bottom:60px}
+.div3{margin-top:124px}
+section h3 {padding-top:60px;font-size:20px}
+ .featured {margin-bottom:50px}
+.imgtele {height: 125px;display: inline-block;}
+.imgtiti{height: 125px;display: inline-block;}
+.boxes
+
+.box { display:inline-block; background-color:#F2F2F2;}
+.box2 {background-color:#F2F2F2; display:inline-block;}
